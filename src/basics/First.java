@@ -1,9 +1,9 @@
 package basics;
 
-public class Programmingl2 {
-
-	public static void main(String[] args) {
-int n1=5,n2=21;
+class makers{
+	public static void main(String[] args)
+	{
+		int n1=5,n2=21;
 		
 		System.out.println(n1);
 		System.out.println(n2);
@@ -13,8 +13,7 @@ int n1=5,n2=21;
 		n2=n3;
 		System.out.println(n1);
 		System.out.println(n2);
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
