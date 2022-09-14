@@ -1,6 +1,6 @@
 package basics;
 
-public class First{
+public class Find{
 	public static void main(String args[])
 	{
 		for(int i=0; i<5; i++)
@@ -9,11 +9,10 @@ public class First{
 			{
 				break;
 			}
-	
+			}
 		
 	System.out.println(i);
-}
-	}
+		}
 }
 
 		
